@@ -1,0 +1,17 @@
+﻿  main.cpp
+E:\s204089\Project1\main.cpp(19,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+E:\s204089\Project1\main.cpp(19,28): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Trwa generowanie kodu
+  0 of 133 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Project1.vcxproj -> E:\s204089\Project1\x64\Release\Project1.exe
