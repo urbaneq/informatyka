@@ -1,0 +1,11 @@
+﻿  gamestate.cpp
+E:\204089\informatyka projekt\gamestate.cpp(19,26): error C2065: "paletka": niezadeklarowany identyfikator
+E:\204089\informatyka projekt\gamestate.cpp(19,51): error C2065: "paletka": niezadeklarowany identyfikator
+E:\204089\informatyka projekt\gamestate.cpp(22,24): error C2065: "pilka": niezadeklarowany identyfikator
+E:\204089\informatyka projekt\gamestate.cpp(22,47): error C2065: "pilka": niezadeklarowany identyfikator
+E:\204089\informatyka projekt\gamestate.cpp(23,19): error C2065: "pilka": niezadeklarowany identyfikator
+E:\204089\informatyka projekt\gamestate.cpp(23,41): error C2065: "pilka": niezadeklarowany identyfikator
+E:\204089\informatyka projekt\gamestate.cpp(31,23): error C2039: „position”: nie jest składową elementu „BlockData”
+E:\204089\informatyka projekt\gamestate.h(7): message : zobacz deklarację „BlockData”
+E:\204089\informatyka projekt\gamestate.cpp(31,50): error C2039: „position”: nie jest składową elementu „BlockData”
+E:\204089\informatyka projekt\gamestate.h(7): message : zobacz deklarację „BlockData”
